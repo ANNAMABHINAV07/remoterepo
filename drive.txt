@@ -1,0 +1,41 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number: ST-FS-0001#USB
+Evidence Number: 01
+Unique description: Recovering Deleted Data
+Examiner: Sai
+Notes: Data Recovery
+
+--------------------------------------------------------------
+
+Information for C:\Users\abhin\OneDrive\Desktop\fury\D DRIVE:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 2,095,104
+[Physical Drive Information]
+ Removable drive: False
+ Source data size: 1023 MB
+ Sector count:    2095104
+[Computed Hashes]
+ MD5 checksum:    430fdb8b2f036824c9372ae725e600b9
+ SHA1 checksum:   97669b29f6ae1145baf93d4c3d6119117dd1f8e5
+
+Image Information:
+ Acquisition started:   Tue Nov 12 14:48:13 2024
+ Acquisition finished:  Tue Nov 12 14:48:15 2024
+ Segment list:
+  C:\Users\abhin\OneDrive\Desktop\fury\D DRIVE.001
+ COMPUTED HASH :  430fdb8b2f036824c9372ae725e600b9
+ COMPUTED HASH :  97669b29f6ae1145baf93d4c3d6119117dd1f8e5
+
+Image Verification Results:
+ Verification started:  Tue Nov 12 14:48:16 2024
+ Verification finished: Tue Nov 12 14:48:20 2024
+ MD5 checksum:    430fdb8b2f036824c9372ae725e600b9 : verified
+ SHA1 checksum:   97669b29f6ae1145baf93d4c3d6119117dd1f8e5 : verified
