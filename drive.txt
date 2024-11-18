@@ -1,6 +1,6 @@
 ﻿Created By Exterro® FTK® Imager 4.7.3.81 
 
-Case Information: 
+Case Information:001 
 Acquired using: ADI4.7.3.81
 Case Number: ST-FS-0001#USB
 Evidence Number: 01
